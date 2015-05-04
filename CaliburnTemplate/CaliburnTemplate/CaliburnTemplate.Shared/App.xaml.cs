@@ -49,7 +49,7 @@ namespace CaliburnTemplate
 
         protected override void OnLaunched(LaunchActivatedEventArgs args)
         {
-            //Adicione aqui a primeira página do seu app
+            //Adicione aqui a primeira página do seu apP// ARQUIVO DO PROJETO DE VIEW! NÃO VIEW MODEL E SIM VIEW!
             DisplayRootView<MainPage>();
         }
 

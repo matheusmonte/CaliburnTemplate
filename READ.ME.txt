@@ -3,3 +3,13 @@ Create a caliburn project template to be used on Universal Apps,
 PLease DO not remove and always linked to our blog:
 
 https://somoswindev.wordpress.com/
+
+=========================================================================
+
+ALWAYS RENAME YOUR PROJECT, MODIFY THE PROJECT SHARED, AND PROJECT PATH ON .CSPROJECTITEMS
+
+RENAME ALL THE FOLDERS BEFORE LOAD YOUR SOLUTION
+
+ALWAYS CHANGE ALL NAMES CALIBURNTEMPLATE TO YOUR APPLICATION NAME
+
+ON THE DISPLAY ROOT ON APP.XAML, ALWAYS PUT A VIEW FILE, NOT A VIEWMODEL FILE

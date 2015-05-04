@@ -1,1 +1,1 @@
-C:\Users\mmonte\Documents\Visual Studio 2013\Projects\CaliburnTemplate\CaliburnTemplate\CaliburnTemplate.WindowsPhone\CaliburnTemplate.WindowsPhone.csproj;neutral
+C:\workspace\CaliburnTemplate\CaliburnTemplate\CaliburnTemplate\CaliburnTemplate.WindowsPhone\CaliburnTemplate.WindowsPhone.csproj;neutral
